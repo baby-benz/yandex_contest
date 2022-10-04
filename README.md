@@ -2,3 +2,4 @@
 
 - ### [Анаграммы](src/ru/yandex/contest/anagrams)
 - ### [Генерация скобочных последовательностей](src/ru/yandex/contest/balanced_parentheses)
+- ### [Интересное путешествие](src/ru/yandex/contest/interesting_trip)
